@@ -1,0 +1,7 @@
+int (void)
+{
+printf (%d, %d)
+Scanf(%d, %d)
+a=b
+}
+:
